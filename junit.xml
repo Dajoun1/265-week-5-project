@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="12" failures="0" errors="0" time="2.586">
+  <testsuite name="Intial UI" errors="0" failures="0" skipped="0" timestamp="2023-07-13T19:47:17" time="1.7" tests="12">
+    <testcase classname="Intial UI input tasks input box should be of type text" name="Intial UI input tasks input box should be of type text" time="0.045">
+    </testcase>
+    <testcase classname="Intial UI initially the tasks table should be empty" name="Intial UI initially the tasks table should be empty" time="0.007">
+    </testcase>
+    <testcase classname="Add Task add task button should add a task" name="Add Task add task button should add a task" time="0.019">
+    </testcase>
+    <testcase classname="Add Task should display an alert if input box is empty" name="Add Task should display an alert if input box is empty" time="0.012">
+    </testcase>
+    <testcase classname="Add Task should empty the input boxes on adding a valid task" name="Add Task should empty the input boxes on adding a valid task" time="0.01">
+    </testcase>
+    <testcase classname="Delete Task delete button should delete the corresponding task" name="Delete Task delete button should delete the corresponding task" time="0.019">
+    </testcase>
+    <testcase classname="Mark as Complete should mark the task as complete" name="Mark as Complete should mark the task as complete" time="0.012">
+    </testcase>
+    <testcase classname="Mark as Complete should be disabled after clicking when Show Completed Task checkbox is called" name="Mark as Complete should be disabled after clicking when Show Completed Task checkbox is called" time="0.014">
+    </testcase>
+    <testcase classname="Mark as Complete should be updated to Completed when Show Completed Task checkbox is called" name="Mark as Complete should be updated to Completed when Show Completed Task checkbox is called" time="0.013">
+    </testcase>
+    <testcase classname="Show Completed Task should show all the tasks including the ones which are completed" name="Show Completed Task should show all the tasks including the ones which are completed" time="0.018">
+    </testcase>
+    <testcase classname="Show Completed Task should be not checked by default" name="Show Completed Task should be not checked by default" time="0.005">
+    </testcase>
+    <testcase classname="Show Completed Task should be checked after clicking" name="Show Completed Task should be checked after clicking" time="0.005">
+    </testcase>
+  </testsuite>
+</testsuites>

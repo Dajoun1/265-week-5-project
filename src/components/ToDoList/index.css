@@ -1,0 +1,17 @@
+button:disabled {
+    background: none;
+}
+
+table tbody tr td {
+    font-size: 16px;
+    height: 20px;
+    padding: 1.2rem;
+}
+
+.show-completed-tasks-label {
+    padding-left: 0.4em;
+}
+
+.show-completed-tasks-checkbox[type=checkbox] {
+    transform: scale(1.2);
+}
